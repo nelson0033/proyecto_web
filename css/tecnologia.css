@@ -1,0 +1,26 @@
+#lorem{
+    padding-top: 150px;
+    background-image: url("../img/gemera.jpg");
+    background-size:contain;
+    text-align: center;
+    width: 100%;
+    display: flex;
+}
+#lorem_content{
+    width: 50%;
+}
+h1, h4{
+    color: aliceblue;
+    background-color: black;
+    border: 10px solid gray;
+    border-radius: 8%;
+}
+#motor_jesko{
+    width: 50%;
+    justify-content: center;
+}
+#motor_jesko img{
+    width: 50%;
+    border-radius: 8%;
+    border: 10px solid gray;
+}

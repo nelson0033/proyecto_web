@@ -1,0 +1,12 @@
+#introduccion{
+    padding-top: 80px;
+    background-image: url("../img/fondo\ _koenigsegg_index.jpeg");
+    background-size:contain;
+    text-align: center;
+    width: 100%;
+}
+#introduccion h1{
+    font-size: 25px;
+    margin-bottom: 40px;
+    color: whitesmoke;
+}

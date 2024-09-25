@@ -1,0 +1,25 @@
+#comentarios{
+    padding-top: 80px;
+    background-image: url("../img/jesko.jpg");
+    background-size:contain;
+    text-align: center;
+    width: 100%;
+}
+.formulario_coment{
+    background-color: gray;
+    text-align: center;
+    margin: auto;
+    width: 600px;
+    height: 300px;
+    padding: 30px;
+    border-radius: 4%;
+}
+#coment{
+    width: 250px;
+    height: 120px;
+
+}
+#contacto{
+    width: 200px;
+}
+

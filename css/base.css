@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: #397697;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+#navbar{
+    width: auto;
+    background-image: url(../img/gemera.jpg);
+    border-bottom: 1px solid white;
+    height: 60px;
+}
+#navbar ul{
+    margin-top: 20px;
+}
+#navbar a{
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+#contenido {
+    height: 100%;
+    display: flex;
+}
+#categorias{
+    size: 100%;
+    background-image: url("../img/fibra_carbono.jpg");
+    border-right: 1px solid black;
+    color: whitesmoke;
+    font-size: large;
+    padding-top: 200px;
+    padding-right: 50px;
+}
+#categorias ul{
+    list-style-type: none;
+}
+#categorias li{
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#categorias a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 25px;
+}
+
